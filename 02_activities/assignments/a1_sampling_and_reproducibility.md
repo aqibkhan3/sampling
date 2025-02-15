@@ -78,12 +78,7 @@ Conclusion on Reproducibility: With fewer repetitions, results were less reprodu
 
 To ensure consistent results, I added `np.random.seed(42)` at the beginning of the script. Setting this seed makes `np.random` functions like `np.random.choice` and `np.random.rand` generate the same "random" values each time the script runs, ensuring reproducibility across different environments and repetition levels.
 
-For 1000 runs
-![For 1000](image-1.png)
 
-
-For 100 runs
-![For 100](image.png)
 
 
 
