@@ -13,9 +13,6 @@ Alter the code so that it is reproducible. Describe the changes you made to the 
 # Author: AQIB KHAN
 
 ```
-Please write your explanation here...
-
-```
 1. Examining the Code in whitby_covid_tracing.py
 
 Sampling Stages in the Model
@@ -80,6 +77,8 @@ Conclusion on Reproducibility: With fewer repetitions, results were less reprodu
 4. Altering Code for Reproducibility
 
 To ensure consistent results, I added `np.random.seed(42)` at the beginning of the script. Setting this seed makes `np.random` functions like `np.random.choice` and `np.random.rand` generate the same "random" values each time the script runs, ensuring reproducibility across different environments and repetition levels.
+```
+
 
 
 
