@@ -43,7 +43,9 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 The number of your chosen topic: 1
 
 Describe the purpose of your survey:
-```This survey aims to explore the reasons entry- and lower-level employees are leaving the organization, as well as to pinpoint specific areas for improvement to enhance job satisfaction and reduce employee turnover. 
+```
+This survey aims to explore the reasons entry- and lower-level employees are leaving the organization, as well as to pinpoint specific areas for improvement to enhance job satisfaction and reduce employee turnover. 
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
